@@ -48,6 +48,8 @@ In today's, the most popular JS frameworks are Angular JS and Vue JS. Angular JS
 Vue comes pre-packaged with Laravel (along with Laravel Mix, an excellent build tool based on webpack) and allows developers to start building complex single-page applications without worrying about transpilers, code packaging, source maps, or any other 'dirty' aspects of modern frontend development.
 
 
+- [Laravel Vue JS CRUD Application](https://techvblogs.com/blog/build-crud-app-with-laravel-and-vuejs).
+
 # Laravel Vue JS CRUD Application (SPA) :
 
   1. Install Laravel Project
